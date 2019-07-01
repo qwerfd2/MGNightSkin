@@ -14,5 +14,5 @@ This skin is ONLY TESTED TO BE suitable for Media Go 3.2（build 191）. Other v
 3.替换default.skn (有UAC提示点同意)  
 如有任何Bug请务必告知！我会尝试修复  
 此皮肤仅适用于MG3.2 build191. 其他版本不保证成功。  
-Credit goes to Mentis-Rasa on DeviantArt for the initial inspiration (his MG skin works on an older version, and he made a handy guide for modding the skin file. Check him out at https://www.deviantart.com/mentis-rasa/art/Media-Go-Grayscale-173838644).
+Credit goes to Mentis-Rasa on DeviantArt for the initial inspiration. Check it out at https://www.deviantart.com/mentis-rasa/art/Media-Go-Grayscale-173838644).
 
