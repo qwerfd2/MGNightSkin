@@ -6,7 +6,7 @@ How to install
 2. BACK UP your old skin  
 3. Replace default.skn with my file (accept any UAC request)  
 Report any bugs so that I can improve the skin!  
-This skin is ONLY TESTED TO BE suitable for Media Go 3.2（build 191）. Other version's availaility is not guarranteed.  
+This skin is ONLY TESTED TO BE suitable for Media Go 3.2（build 191）. Other version's availability is not guarranteed.  
 简体中文  
 如何安装  
 1.打开MG安装目录/skins  
