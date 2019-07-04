@@ -8,7 +8,8 @@ Report any bugs so that I can improve the skin!
 This skin is ONLY TESTED TO BE suitable for Media Go 3.2（build 191）. Other version's availability is not guarranteed.  
 Recommended to use w/ Windows 10's high contrast mode.  
 THANKS to Mentis-Rasa on DeviantArt for the initial inspiration. Check him out at https://www.deviantart.com/mentis-rasa/art/Media-Go-Grayscale-173838644.  
-I also used Matt Lagrandeur's Hex Color Inverter at http://www.mattlag.com/scripting/hexcolorinverter.php.
+I also used Matt Lagrandeur's Hex Color Inverter at http://www.mattlag.com/scripting/hexcolorinverter.php.  
+P.S. You can find the stock skin and all versions of my skin in the history branch <3
 
 -------------------------------------------------------------------------
 Media Go 3.2 夜晚皮肤  
@@ -21,5 +22,6 @@ Media Go 3.2 夜晚皮肤
 配合Windows10系统高对比度效果更佳  
 友情链接：  
 https://www.deviantart.com/mentis-rasa/art/Media-Go-Grayscale-173838644  
-http://www.mattlag.com/scripting/hexcolorinverter.php
+http://www.mattlag.com/scripting/hexcolorinverter.php  
+P.S. 原版皮肤和所有历史版本皮肤可以在“History”branch找到 <3
 
