@@ -20,6 +20,8 @@ Code to enable Dev Menu (Tools -> Internal): Add to C:\Users\...\AppData\Roaming
     </PREF>
 
 If you rename the dark skin as scc.skn you can swap themes on the fly using the developer menu.
+
+
 -------------------------------------------------------------------------
 Media Go 3.2 夜晚皮肤  
 如何安装  
