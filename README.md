@@ -11,6 +11,15 @@ THANKS to Mentis-Rasa on DeviantArt for the initial inspiration. Check him out a
 I also used Matt Lagrandeur's Hex Color Inverter at http://www.mattlag.com/scripting/hexcolorinverter.php.  
 P.S. You can find the stock skin and all versions of my skin in the history branch <3
 
+
+Code to enable Dev Menu (Tools -> Internal): Add to C:\Users\...\AppData\Roaming\Sony\Media Go\Prefs.xml
+
+    <PREF name="fCullMenuInternalTools" type="Bool">
+      <VERSION>1</VERSION>
+      <VALUE>FALSE</VALUE>
+    </PREF>
+
+If you rename the dark skin as scc.skn you can swap themes on the fly using the developer menu.
 -------------------------------------------------------------------------
 Media Go 3.2 夜晚皮肤  
 如何安装  
