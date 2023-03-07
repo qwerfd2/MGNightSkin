@@ -22,6 +22,14 @@ Code to enable Dev Menu (Tools -> Internal): Add to C:\Users\...\AppData\Roaming
 If you rename the dark skin as scc.skn you can swap themes on the fly using the developer menu.
 
 
+Code to change the default Mora URL in the built-in Chromium 47 (not compatible w/ some sites, not secure):
+
+    <PREF name="szMoraHomeURL" type="String">
+      <VERSION>1</VERSION>
+      <VALUE>http://duckduckgo.com</VALUE>
+    </PREF>
+
+
 -------------------------------------------------------------------------
 Media Go 3.2 夜晚皮肤  
 如何安装  
