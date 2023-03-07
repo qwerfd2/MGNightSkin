@@ -50,3 +50,5 @@ P.S. 原版皮肤和所有历史版本皮肤可以在“History”branch找到 <
 ![Images](https://raw.githubusercontent.com/qwerfd2/MGNightSkin/master/2.JPG "Title")
 
 ![Images](https://raw.githubusercontent.com/qwerfd2/MGNightSkin/master/3.JPG "Title")
+
+![Images](https://raw.githubusercontent.com/qwerfd2/MGNightSkin/master/MG_capture_20230307-090912.png "Title")
